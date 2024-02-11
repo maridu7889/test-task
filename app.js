@@ -91,7 +91,7 @@ function createNode(service){
     span.textContent=service.name
     span.classList.add('show')
     li.appendChild(span)
-    li.appendChild(document.createTextNode((`${service.price}`)))
+    li.appendChild(document.createTextNode(` (${service.price})`))
 
     if(service.node===1){
         const ul=document.createElement('ul')
