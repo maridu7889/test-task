@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+.content {
+    text-align: center;
+}
+ 
+
+.node { 
+    margin-left: 20px;
+}
+.hide {
+    display: none;
+}
+.show { 
+    cursor: pointer; 
+}
