@@ -41,7 +41,14 @@ node = флаг “узел дерева” (1-узел, 0-лист)
 ### Скриншоты Web-приложения
 ---
 
-**Начальная страница**
+
+![Начальная страница](https://github.com/maridu7889/test-task/raw/main/images/1.png)
+
+![Страница, показывающая вложенность](https://github.com/maridu7889/test-task/raw/main/images/2.png)
+
+![страница с выводом данных](https://github.com/maridu7889/test-task/raw/main/images/3(2).png)
+
+
 
 
   
